@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input {display: block;
+align-items: center;
+margin:1rem;}
+a{
+  display:block
+}
